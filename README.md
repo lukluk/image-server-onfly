@@ -12,7 +12,7 @@ https://imgix.livaza.xyz/backend/Bazaar%20Sofa_2017.jpg?q=60&w=500
 ```
 ![alt tag](https://imgix.livaza.xyz/backend/Bazaar%20Sofa_2017.jpg?q=60&w=500)
 
-## QUERY
+## MORE AVAILABLE QUERY
 
 ```
     trim:           optional. default: false. trims edges that are the background color.
