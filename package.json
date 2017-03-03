@@ -1,0 +1,30 @@
+{
+  "name": "image-onfly",
+  "version": "1.0.0",
+  "description": "Image processing server on the fly",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.0",
+    "imagemagick-native": "^1.9.3",
+    "md5": "^2.2.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukluk/image-server-onfly.git"
+  },
+  "keywords": [
+    "image",
+    "server"
+  ],
+  "author": "lukluk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukluk/image-server-onfly/issues"
+  },
+  "homepage": "https://github.com/lukluk/image-server-onfly#readme"
+}
