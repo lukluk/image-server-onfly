@@ -1,5 +1,5 @@
 # image-server-onfly
-
+## Real-time image processing and image CDN
 ## Example
 
 https://DOMAIN/SOURCENAME/PATH?q=QUALITY&w=WIDTH&h=HEIGHT&MORE..
