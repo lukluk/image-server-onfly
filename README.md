@@ -1,8 +1,16 @@
 # image-server-onfly
 
+## Example
+
 https://DOMAIN/SOURCENAME/PATH?q=QUALITY&w=WIDTH&h=HEIGHT&MORE..
 
 w and h keep aspect ratio, you can just define w or h
+
+
+```
+https://imgix.livaza.xyz/backend/Bazaar%20Sofa_2017.jpg?q=60&w=500
+```
+![alt tag](https://imgix.livaza.xyz/backend/Bazaar%20Sofa_2017.jpg?q=60&w=500)
 
 ## QUERY
 
@@ -34,8 +42,3 @@ paths['product']='https://static.livaza.com/product'
 paths['v2assets']='https://10.130.46.33/assets'
 paths['backend']='http://10.130.40.28/image'
 ```
-## Example
-```
-https://imgix.livaza.xyz/backend/Bazaar%20Sofa_2017.jpg?q=60&w=500
-```
-![alt tag](https://imgix.livaza.xyz/backend/Bazaar%20Sofa_2017.jpg?q=60&w=500)
